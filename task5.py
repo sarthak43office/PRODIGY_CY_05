@@ -32,4 +32,4 @@ def start_sniffing(interface=None):
 
 if __name__ == "__main__":
     # Replace 'your_interface' with your network interface name, e.g., 'eth0', 'wlan0', etc.
-    start_sniffing(interface="Wi-Fi")
+start_sniffing(interface="Wi-Fi")
